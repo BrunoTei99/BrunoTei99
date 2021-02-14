@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrunoTei99
+- 👋 Hi, I’m Bruno
 - 👀 I’m interested in Software Development, UI and UX 
 - 🌱 I’m currently learning Informatics engineering
 - 💞️ I’m looking to collaborate on new projects
